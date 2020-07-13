@@ -29,7 +29,7 @@
     "egg-bin": "^4.11.0",
     "egg-ci": "^1.11.0",
     "egg-mock": "^3.21.0",
-    "standard-version": "^5.0.1",
+    "standard-version": "^8.0.1",
     "typescript": "^3.3.3333"
   },
   "engines": {
